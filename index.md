@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to the ESP32TinyTester Page
 
 ![Image](https://github.com/CwlBroeders/Esp32TinyTester/blob/gh-pages/ESP32TinyTesterTop.PNG?raw=true)
+![Image](https://github.com/CwlBroeders/Esp32TinyTester/blob/gh-pages/ESP32TinyTesterBottom.PNG?raw=true)
 
-You can use the [editor on GitHub](https://github.com/CwlBroeders/Esp32TinyTester/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ESP32 for brains ATTINY828 for sensing.
+Add your own testfixture pcb and start checking those products.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Update testing and production firmware Over The Air.
+Store Testing and production firmware on SD card.
+Flash test software to Device Under Test.
+Run test from ESP32.
+Flash firmware to Device after test is succesfull.
+Submit testreport OTA when complete.
 
 ### Markdown
 
