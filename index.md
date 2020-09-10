@@ -2,6 +2,7 @@
 
 ESP32 for brains ATTINY828 for sensing.
 Add your own testfixture pcb and start checking those products.
+Designed with hand soldering in mind.
 
 Update testing and production firmware Over The Air.
 Store Testing and production firmware on SD card.
